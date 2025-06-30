@@ -34,7 +34,7 @@ This project was done to simulate a real-world wireless infrastructure migration
 
 ## About This Lab
 
-This project was created to model what a real transition from Aruba to UniFi might look like. It's basically the equivalent of drawing a network topology on a white board before actually deploying it.
+This project is basically the equivalent of drawing a network topology on a white board before actually deploying it.
 
 While I havn’t done anything like this in the field, every markdown file reflects lessons I gathered from real vendor docs, support threads, and sysadmin war stories.
 
